@@ -1,0 +1,22 @@
+{
+  "overview": "Professional freelance services landing page for Dipansu Web, offering thumbnail design and video editing services. Features a dark navy theme with green CTA buttons, service cards with pricing, and direct WhatsApp contact integration.",
+  "features": [
+    "Hero section with WhatsApp CTA",
+    "Service cards with pricing (Thumbnail $5-$10, Video Editing $10-$30)",
+    "Trust/social proof section",
+    "Contact section with WhatsApp link",
+    "Fully responsive dark navy design",
+    "Animated hover states on interactive elements"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "freelance",
+    "services",
+    "landing-page",
+    "thumbnail-design",
+    "video-editing",
+    "dark-theme",
+    "whatsapp"
+  ],
+  "last_updated": "2026-04-30T08:40:53.053Z"
+}
